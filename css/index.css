@@ -1,0 +1,23 @@
+
+body {
+    background: linear-gradient(to bottom right, #777, #333);
+}
+
+.login-box{
+
+}
+.register-box {
+    margin-top: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    min-width: 350px;
+    max-width: 80%;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    transform: rotateX(5deg);
+    margin-bottom: 20px;
+}
+
+.register-box {
+    display: none;
+}
